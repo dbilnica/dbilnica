@@ -9,12 +9,11 @@ I'm a Software Developer & Architect at **Monet+**, fueled by coffee ☕ and mat
 - Architecting digital solutions and building the tech foundations of tomorrow  
 - Passionate about backend systems, APIs, clean architecture, and scalable designs  
 - Strong background in software engineering and technical leadership  
-- Motivated by continuous learning and community-driven collaboration :contentReference[oaicite:1]{index=1}
+- Motivated by continuous learning and community-driven collaboration
 
 ---
 
 ## 🛠️ Tech & Tools
-*(You can include relevant badges similar to these examples)*
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 - ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -44,4 +43,3 @@ I'm a Software Developer & Architect at **Monet+**, fueled by coffee ☕ and mat
 ---
 
 Feel free to **copy-paste**, tweak badges, or add sections like education, projects, or blog posts. If you have specific projects you'd like featured or want a version with different formatting, just let me know!
-::contentReference[oaicite:2]{index=2}
