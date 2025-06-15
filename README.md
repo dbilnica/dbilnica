@@ -24,7 +24,7 @@ I'm a Software Developer & Architect at **Monet+**, fueled by coffee ☕ and mat
 ---
 
 ## 📊 GitHub Stats
-![dbilnica’s GitHub stats](https://github-readme-stats.vercel.app/api?username=dbilnica&show_icons=true&theme=default)
+![dbilnica's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbilnica&show_icons=true&theme=default)
 
 ---
 
@@ -42,4 +42,4 @@ I'm a Software Developer & Architect at **Monet+**, fueled by coffee ☕ and mat
 
 ---
 
-Feel free to **copy-paste**, tweak badges, or add sections like education, projects, or blog posts. If you have specific projects you'd like featured or want a version with different formatting, just let me know!
+🧠 Always open to collaboration, feedback, and new ideas!
